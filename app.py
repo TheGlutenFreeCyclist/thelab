@@ -2576,9 +2576,9 @@ LOGIN_PAGE = """
     <section class="v4-card v46-login-stage">
       <div class="v46-brand-lockup">
         <img class="v46-login-logo" src="data:image/png;base64,{{ logo }}" alt="The Gluten Free Cyclist · The Lab">
-        <div class="v46-login-kicker">ATHLETE-SPECIFIC CYCLING DECISION SYSTEM</div>
+        <div class="v46-login-kicker">ATHLETE-SPECIFIC TRAINING DECISION SYSTEM</div>
         <h1>Your physiology. Your baseline. Your next move.</h1>
-        <p class="v46-login-copy">THE LAB is a personal cycling intelligence platform that combines recovery, training load, sleep, physiology, planning and fueling into one evolving daily snapshot. Deterministic Python engines establish the athlete state; AI Coach explains the why, the trade-offs and the next move.</p>
+        <p class="v46-login-copy">THE LAB is a personal training intelligence platform that combines recovery, training load, sleep, physiology, planning and fueling into one evolving daily snapshot. Deterministic Python engines establish the athlete state; AI Coach explains the why, the trade-offs and the next move.</p>
       </div>
 
       <div class="v46-feature-grid" aria-label="THE LAB features">
